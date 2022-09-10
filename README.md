@@ -18,14 +18,14 @@ I was able to make Dashboard clearly through it
 
 • The reasons for choosing each chart and choosing the appropriate design are also explained.
 
-# ■ Flight Delays and Cancellations in the USA Analysis:
+#  Flight Delays and Cancellations in the USA Analysis:
 
 ●Data cleaning With Power query
 
 ●Data Visualization With Tableau
 
 
-# ■ Output:
+#  Output:
 
 • What is the most Airport have AVG Arrival Delay?
 
