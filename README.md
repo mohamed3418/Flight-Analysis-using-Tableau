@@ -3,8 +3,6 @@
 
 [view dashboaard](https://public.tableau.com/views/flight_16617321141490/2015FlightDelaysandCancellations?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-# My new project using Tableau
-
 
 I was able to make Dashboard clearly through it
 
